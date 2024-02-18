@@ -1,7 +1,7 @@
 public class MusicStore {
-    // MAIN CLASS, GOES LINE-BY-LINE
+    // MAIN CLASS, EXECUTES LINE-BY-LINE
     public static void main(String[] args) {
-        // CREATED OBJECTS AND PASS IN/ASSIGN VALUES
+        // OBJECTS W/VALUES
         Instrument drums = new Drums("Drums", "Tama", "Funk", 750, "DW", "SSL", "Yamaha","Yamaha", "Tama", true, true);
         Instrument keys = new Keys("Keys", "Rhodes", "Analogue", 2040, 2, false, false);
         Instrument bass = new Basses("Bass", "Ibanez", "Caveman", 850, "Neck-through", "Standard", "Metallic", "Ash", "Volume, Tone", 4, 20, 2, true, false);
