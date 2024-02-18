@@ -1,0 +1,11 @@
+- create a main class called "MusicStore"
+- create an abstract class called "Instrument"
+- define attributes that instruments may have (type)
+- define methods for all instruments (specs)
+- create instances of the instruments (objects) in the "MusicStore" class
+- invoke their methods
+- create some other classes — like "Guitar" or "Drums"
+- give them methods like
+- create those objects in main "MusicStore" class as well
+
+"this." keyword is a variable that points (referencing) to the current object
